@@ -33,15 +33,6 @@ I’m passionate about <strong>Web Development</strong> and <strong>Artificial I
 
 ---
 
-### 🤝 Connect with Me  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/m-abdelhakem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-abdelhakem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/m-abdelhakem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m-abdelhakem" height="30" width="40" /></a>
-</p>
-
----
-
 ### 💻 Tech Stack  
 
 #### **Programming & Scripting**  
@@ -51,6 +42,8 @@ I’m passionate about <strong>Web Development</strong> and <strong>Artificial I
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
 
 #### **Web Development**  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -58,7 +51,11 @@ I’m passionate about <strong>Web Development</strong> and <strong>Artificial I
 
 #### **Databases & Cloud**  
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL](https://img.shields.io/badge/sql-%230077b5.svg?style=for-the-badge&logo=database&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AWS SES](https://img.shields.io/badge/AWS%20SES-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
 #### **Machine Learning & Data Science**  
@@ -88,7 +85,10 @@ I’m passionate about <strong>Web Development</strong> and <strong>Artificial I
 ### 🤝 Connect with Me  
 
 Always happy to chat about tech, AI, and anything in between! Feel free to reach out.  
-
-📧 **Email:** [mohanad@uni.minerva.edu](mailto:mohanad@uni.minerva.edu)  
-🔗 **LinkedIn:** [Mohanad Abdelhakem](https://www.linkedin.com/in/m-abdelhakem/)  
-📌 **LeetCode:** [Mohanad](https://leetcode.com/u/M-Abdelhakem/) 
+<p align="left">
+<a href="mailto:mohanad@uni.minerva.edu" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/m-abdelhakem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-abdelhakem" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/m-abdelhakem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m-abdelhakem" height="30" width="40" /></a>
+</p>

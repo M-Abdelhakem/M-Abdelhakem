@@ -8,28 +8,31 @@ I’m passionate about <strong>Web Development</strong> and <strong>Artificial I
 
 ---
 
-### 🚀 What I’m Working On
+### 🚀 What I’m Currently Working On
 
-- **🔐 [Howthink)](https://howthink.org)**  
+- **🔐 [Howthink](https://howthink.org)**  
   My startup, focused on developing AI-powered tools that enhance learning, productivity, and automation.  
   Currently building intelligent solutions that help people streamline workflows and make better decisions.
 
-- **🌍 [RepoMind](https://github.com/repomind)**  
-  A developer-friendly AI tool designed to help you manage, discover, and navigate GitHub repositories efficiently.  
-  RepoMind leverages AI to provide smart recommendations, insightful analytics, and better project organization.
+- **🌍 [RepoMind](https://github.com/M-Abdelhakem/repomind)**  
+  A RAG-powered AI code companion that helps you navigate and understand repositories through natural conversation.
+  RepoMind indexes your codebase, answers questions about architecture and provides contextual insights without manual exploration.
 
 ---
 
-### 📚 What I’m Exploring  
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abdelhakem&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelhakem" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdelhakem&theme=dark" alt="m-abdelhakem" height="200" />
+</p>
 
-- **Integrating AI into Web Applications**  
-  Finding ways to make AI more accessible and practical for real-world applications, from chatbots to smart automation tools.
+---
 
-- **Scalability & Performance Optimization**  
-  Learning how to build and deploy high-performance applications that can handle large-scale use cases.
+### 🤝 Connect with Me  
 
-- **Backend Systems & API Development**  
-  Experimenting with frameworks like FastAPI and Node.js to create efficient and scalable backend services.
+Always happy to chat about tech, AI, and anything in between! Feel free to reach out.  
+📧 **Email:** [mohanad@uni.minerva.edu](mailto:mohanad@uni.minerva.edu)  
+🔗 **LinkedIn:** [Mohanad Abdelhakem](https://www.linkedin.com/in/m-abdelhakem/)
 
 ---
 
@@ -73,22 +76,3 @@ I’m passionate about <strong>Web Development</strong> and <strong>Artificial I
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ![Terminal](https://img.shields.io/badge/terminal-%23000000.svg?style=for-the-badge&logo=gnometerminal&logoColor=white)  
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-
----
-
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abdelhakem&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelhakem" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdelhakem&theme=dark" alt="m-abdelhakem" /></p>
-
----
-
-### 🤝 Connect with Me  
-
-Always happy to chat about tech, AI, and anything in between! Feel free to reach out.  
-<p align="left">
-<a href="mailto:mohanad@uni.minerva.edu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/m-abdelhakem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-abdelhakem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/m-abdelhakem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="m-abdelhakem" height="30" width="40" /></a>
-</p>

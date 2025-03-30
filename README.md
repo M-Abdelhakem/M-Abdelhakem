@@ -22,8 +22,8 @@ I’m passionate about <strong>Web Development</strong> and <strong>Artificial I
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abdelhakem&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelhakem" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdelhakem&theme=dark" alt="m-abdelhakem" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abdelhakem&show_icons=true&locale=en&layout=compact&theme=dark" alt="m-abdelhakem" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-abdelhakem&theme=dark" alt="m-abdelhakem" height="170" />
 </p>
 
 ---
